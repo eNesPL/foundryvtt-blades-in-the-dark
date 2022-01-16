@@ -169,5 +169,17 @@
     "BITD.Wear": "Zużycie",
     "BITD.Gloom": "Smutek",
   
-    "BITD.Name": "Imię"
+    "BITD.Name": "Imię",
+    "BITD.CampaignName": "Nazwa kampani",
+
+    "BITD.DangerousFriends": "Niebezpieczni przyjaciele",
+    "BITD.EnemiesRivals": "Wrogowie i rywale",
+    "BITD.DeadlyFriends": "Zabójczy przyjaciele",
+    "BITD.Blank": "",
+    "BITD.CleverFriends": "Bystrzy przyjaciele",
+    "BITD.ShadyFriends": "Podejrzani przyjaciele",
+    "BITD.SlyFriends": "Chytrzy przyjaciele",
+    "BITD.ShrewdFriends": "Sprytni Friends",
+    "BITD.DarkServants": "Mroczni słudzy",
+    "BITD.StrangeFriends": "Dziwni przyjaciele"
   }
