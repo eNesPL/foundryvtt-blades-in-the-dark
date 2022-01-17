@@ -6,7 +6,7 @@
 {"name":"Subtle","permission":{"default":0},"type":"crew_reputation","data":{"description":""},"folder":null,"sort":700001,"flags":{},"_id":"DtXIle1LfX4p5oZ0"}
 {"name":"Radiant","permission":{"default":0},"type":"crew_reputation","data":{"description":""},"folder":null,"sort":600001,"flags":{},"_id":"ES5PAowUQOaUVC95"}
 {"name":"Ambitious","permission":{"default":0},"type":"crew_reputation","data":{"description":""},"folder":null,"sort":100001,"flags":{},"_id":"EaajFTLzeCTlVbZP"}
-{"name":"Ferocious","permission":{"default":0},"type":"crew_reputation","data":{"description":""},"folder":null,"sort":400001,"flags":{},"_id":"HgQ1oTvoWwaVMmFi"}
+{"_id":"HgQ1oTvoWwaVMmFi","name":"Ferocious","type":"crew_reputation","img":"icons/svg/item-bag.svg","data":{"description":"","logic":""},"effects":[],"folder":null,"sort":400001,"permission":{"default":0},"flags":{}}
 {"name":"Strange","permission":{"default":0},"type":"crew_reputation","data":{"description":""},"folder":null,"sort":800001,"flags":{},"_id":"Jt1oFkNFOhs40XDi"}
 {"name":"Brutal","permission":{"default":0},"type":"crew_reputation","data":{"description":""},"folder":null,"sort":200001,"flags":{},"_id":"LvYh7PiLfkKQDucv"}
 {"name":"Alluring","permission":{"default":0},"type":"crew_reputation","data":{"description":""},"folder":null,"sort":200001,"flags":{},"_id":"RxKQBii0463Ow5Tt"}
