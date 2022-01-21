@@ -11,7 +11,6 @@ export class BladesActiveEffect extends ActiveEffect {
    * @type {boolean}
    */
   isSuppressed = false;
-
   /* --------------------------------------------- */
   /** @inheritdoc */
   apply(actor, change) {
