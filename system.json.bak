@@ -1,8 +1,8 @@
 {
-  "name": "blades-in-the-dark-pl",
-  "title": "Blades in the Dark PL",
+  "name": "blades-in-the-dark",
+  "title": "Blades in the Dark",
   "description": "Blades in the dark game system.",
-  "version": "3.13",
+  "version": "3.31",
   "minimumCoreVersion": "0.8.5",
   "compatibleCoreVersion": "0.8.9",
   "templateVersion": 1,
