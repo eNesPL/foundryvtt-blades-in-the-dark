@@ -4,7 +4,7 @@
   "description": "Blades in the dark game system.",
   "version": "3.33",
   "minimumCoreVersion": "0.8.5",
-  "compatibleCoreVersion": "0.8.9",
+  "compatibleCoreVersion": "9",
   "templateVersion": 1,
   "author": "megastruktur, eNes",
   "esmodules": [
