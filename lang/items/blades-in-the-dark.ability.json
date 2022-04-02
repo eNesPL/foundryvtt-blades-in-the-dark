@@ -1,0 +1,330 @@
+{
+	"label": "Abilities",
+	"entries": [
+		{
+			"id": "(Czychacz) Błyskawiczna reakcja",
+			"name": "(Czychacz) Błyskawiczna reakcja"
+		},
+		{
+			"id": "(Czychacz) Cień",
+			"name": "(Czychacz) Cień"
+		},
+		{
+			"id": "(Czychacz) Czatownik",
+			"name": "(Czychacz) Czatownik"
+		},
+		{
+			"id": "(Czychacz) Diabli taniec",
+			"name": "(Czychacz) Diabli taniec"
+		},
+		{
+			"id": "(Czychacz) Duchowy woal",
+			"name": "(Czychacz) Duchowy woal"
+		},
+		{
+			"id": "(Czychacz) Ekspertyza",
+			"name": "(Czychacz) Ekspertyza"
+		},
+		{
+			"id": "(Czychacz) Ryzykant",
+			"name": "(Czychacz) Ryzykant"
+		},
+		{
+			"id": "(Czychacz) Weteran",
+			"name": "(Czychacz) Weteran"
+		},
+		{
+			"id": "(Czychacz) Włamywacz",
+			"name": "(Czychacz) Włamywacz"
+		},
+		{
+			"id": "(G) Dissipate",
+			"name": "(G) Dissipate"
+		},
+		{
+			"id": "(G) Ghost Form",
+			"name": "(G) Ghost Form"
+		},
+		{
+			"id": "(G) Manifest",
+			"name": "(G) Manifest"
+		},
+		{
+			"id": "(G) Poltergeist",
+			"name": "(G) Poltergeist"
+		},
+		{
+			"id": "(G) Possess",
+			"name": "(G) Possess"
+		},
+		{
+			"id": "(G) Veteran",
+			"name": "(G) Veteran"
+		},
+		{
+			"id": "(Hu) Automaton",
+			"name": "(Hu) Automaton"
+		},
+		{
+			"id": "(Hu) Compartments",
+			"name": "(Hu) Compartments"
+		},
+		{
+			"id": "(Hu) Electroplasmic Projectors",
+			"name": "(Hu) Electroplasmic Projectors"
+		},
+		{
+			"id": "(Hu) Interface",
+			"name": "(Hu) Interface"
+		},
+		{
+			"id": "(Hu) Overcharge",
+			"name": "(Hu) Overcharge"
+		},
+		{
+			"id": "(Hu) Secondary Hull",
+			"name": "(Hu) Secondary Hull"
+		},
+		{
+			"id": "(Ogar) Mściwy",
+			"name": "(Ogar) Mściwy"
+		},
+		{
+			"id": "(Ogar) Odporny",
+			"name": "(Ogar) Odporny"
+		},
+		{
+			"id": "(Ogar) Skupiony",
+			"name": "(Ogar) Skupiony"
+		},
+		{
+			"id": "(Ogar) Strzelec wyborowy",
+			"name": "(Ogar) Strzelec wyborowy"
+		},
+		{
+			"id": "(Ogar) Tropiciel",
+			"name": "(Ogar) Tropiciel"
+		},
+		{
+			"id": "(Ogar) Twardy",
+			"name": "(Ogar) Twardy"
+		},
+		{
+			"id": "(Ogar) Weteran",
+			"name": "(Ogar) Weteran"
+		},
+		{
+			"id": "(Ogar) Łowca duchów",
+			"name": "(Ogar) Łowca duchów"
+		},
+		{
+			"id": "(Pająk) Dokładny",
+			"name": "(Pająk) Dokładny"
+		},
+		{
+			"id": "(Pająk) Duchowy kontrakt",
+			"name": "(Pająk) Duchowy kontrakt"
+		},
+		{
+			"id": "(Pająk) Mastermind",
+			"name": "(Pająk) Mastermind"
+		},
+		{
+			"id": "(Pająk) Pajęczyna",
+			"name": "(Pająk) Pajęczyna"
+		},
+		{
+			"id": "(Pająk) Pod kontrolą",
+			"name": "(Pająk) Pod kontrolą"
+		},
+		{
+			"id": "(Pająk) Powiązany",
+			"name": "(Pająk) Powiązany"
+		},
+		{
+			"id": "(Pająk) Przezorny",
+			"name": "(Pająk) Przezorny"
+		},
+		{
+			"id": "(Pająk) Recydywista",
+			"name": "(Pająk) Recydywista"
+		},
+		{
+			"id": "(Pająk) Weteran",
+			"name": "(Pająk) Weteran"
+		},
+		{
+			"id": "(Piawka) Duchowy krąg",
+			"name": "(Piawka) Duchowy krąg"
+		},
+		{
+			"id": "(Pijawka) Alchemik",
+			"name": "(Pijawka) Alchemik"
+		},
+		{
+			"id": "(Pijawka) Analityk",
+			"name": "(Pijawka) Analityk"
+		},
+		{
+			"id": "(Pijawka) Jadowity",
+			"name": "(Pijawka) Jadowity"
+		},
+		{
+			"id": "(Pijawka) Konsyliarz",
+			"name": "(Pijawka) Konsyliarz"
+		},
+		{
+			"id": "(Pijawka) Sobotażysta",
+			"name": "(Pijawka) Sobotażysta"
+		},
+		{
+			"id": "(Pijawka) Weteran",
+			"name": "(Pijawka) Weteran"
+		},
+		{
+			"id": "(Pijawka) Wynalazca",
+			"name": "(Pijawka) Wynalazca"
+		},
+		{
+			"id": "(Pijawka) Zahartowany",
+			"name": "(Pijawka) Zahartowany"
+		},
+		{
+			"id": "(Siepacz) Brutal",
+			"name": "(Siepacz) Brutal"
+		},
+		{
+			"id": "(Siepacz) Nie ma lipy",
+			"name": "(Siepacz) Nie ma lipy"
+		},
+		{
+			"id": "(Siepacz) Ochroniarz",
+			"name": "(Siepacz) Ochroniarz"
+		},
+		{
+			"id": "(Siepacz) Pogromca duchów",
+			"name": "(Siepacz) Pogromca duchów"
+		},
+		{
+			"id": "(Siepacz) Przywódca",
+			"name": "(Siepacz) Przywódca"
+		},
+		{
+			"id": "(Siepacz) Tragarz",
+			"name": "(Siepacz) Tragarz"
+		},
+		{
+			"id": "(Siepacz) Weteran",
+			"name": "(Siepacz) Weteran"
+		},
+		{
+			"id": "(Siepacz) Zrodzony w boju",
+			"name": "(Siepacz) Zrodzony w boju"
+		},
+		{
+			"id": "(Siepacz) Żywotny",
+			"name": "(Siepacz) Żywotny"
+		},
+		{
+			"id": "(Szeptuch) Chroniony",
+			"name": "(Szeptuch) Chroniony"
+		},
+		{
+			"id": "(Szeptuch) Fuchowy zmysł",
+			"name": "(Szeptuch) Fuchowy zmysł"
+		},
+		{
+			"id": "(Szeptuch) Nawałnica",
+			"name": "(Szeptuch) Nawałnica"
+		},
+		{
+			"id": "(Szeptuch) Nietypowe metody",
+			"name": "(Szeptuch) Nietypowe metody"
+		},
+		{
+			"id": "(Szeptuch) Okultysta",
+			"name": "(Szeptuch) Okultysta"
+		},
+		{
+			"id": "(Szeptuch) Podstępność",
+			"name": "(Szeptuch) Podstępność"
+		},
+		{
+			"id": "(Szeptuch) Rozkaz",
+			"name": "(Szeptuch) Rozkaz"
+		},
+		{
+			"id": "(Szeptuch) Rytuały",
+			"name": "(Szeptuch) Rytuały"
+		},
+		{
+			"id": "(Szeptuch) Weteran",
+			"name": "(Szeptuch) Weteran"
+		},
+		{
+			"id": "(Szeptuch) Weteran",
+			"name": "(Szeptuch) Weteran"
+		},
+		{
+			"id": "(Szeptuch) Zagrywka kanciarza",
+			"name": "(Szeptuch) Zagrywka kanciarza"
+		},
+		{
+			"id": "(Szeptuch) Zaufaj mi",
+			"name": "(Szeptuch) Zaufaj mi"
+		},
+		{
+			"id": "(Szeptuch) żelazna wola",
+			"name": "(Szeptuch) żelazna wola"
+		},
+		{
+			"id": "(V) A Void in the Echo",
+			"name": "(V) A Void in the Echo"
+		},
+		{
+			"id": "(V) Arcane Sight",
+			"name": "(Wampir) Mistyczny wzrok",
+			"description": "TEST"
+		},
+		{
+			"id": "(V) Dark Talent",
+			"name": "(V) Dark Talent"
+		},
+		{
+			"id": "(V) Sinister Guile",
+			"name": "(V) Sinister Guile"
+		},
+		{
+			"id": "(V) Terrible Power",
+			"name": "(V) Terrible Power"
+		},
+		{
+			"id": "(V) Undead",
+			"name": "(V) Undead"
+		},
+		{
+			"id": "(V) Veteran",
+			"name": "(V) Veteran"
+		},
+		{
+			"id": "(Ściemniacz) Fucha na boku",
+			"name": "(Ściemniacz) Fucha na boku"
+		},
+		{
+			"id": "(Ściemniacz) Gra pozorów",
+			"name": "(Ściemniacz) Gra pozorów"
+		},
+		{
+			"id": "(Ściemniacz) Jakbyś w lustro patrzył",
+			"name": "(Ściemniacz) Jakbyś w lustro patrzył"
+		},
+		{
+			"id": "(Ściemniacz) Język duchów",
+			"name": "(Ściemniacz) Język duchów"
+		},
+		{
+			"id": "(Ściemniacz) Mesmeryzm",
+			"name": "(Ściemniacz) Mesmeryzm"
+		}
+	]
+}
